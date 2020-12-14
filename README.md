@@ -1,2 +1,0 @@
-# lebera-landingpage
-landingpage
